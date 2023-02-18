@@ -1,4 +1,4 @@
-# <p align="center">📔 Day 2</p>
+# 📔 Day 2
 
 <br>
 
