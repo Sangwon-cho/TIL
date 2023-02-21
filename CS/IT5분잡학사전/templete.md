@@ -1,3 +1,7 @@
+# 📔 Day
+
+<br>
+
 ## 오늘 TIL 3줄 요약
 
 ## TIL (Today I Learned) 날짜
