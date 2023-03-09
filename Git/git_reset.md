@@ -57,3 +57,14 @@ git reset --mixed HEAD~1
 ```
 git reset --mixed "commit id"
 ```
+
+## Github에 push한 commit 되돌리기!
+
+앞에서 사용한 것과 같이 git reset을 통해 commit을 되돌리고 `-f`를 사용하여 github에 업데이트 해주면 된다.
+예를 들어 메인에서 push 한 커밋을 지우려면(되돌리려면)
+
+```
+git push -f origin main
+```
+
+을 사용하여 업데이트 해주면 된다.
